@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: instapy
+Version: 0.1.0
+Summary: my_instapy_package
+License: MIT License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+<h1>Instapy</h1>
+
+Summary: <br />
+This package´s responsibility is to change the color of certain pictures to either 
+gray or sepia depending on the flags which the users pass through the command-line 
+interface. It also shows a report on the fastest implementation between pure python,
+numpy and numba. 
+
+Instructions for installing package: 
+* Install the package through "python3 -m pip install ." 
+* Pillow is installed through: "pip install numpy pillow line-profiler"
+
+Instructions for running package: 
+* Option 1: python3 -m instapy 
